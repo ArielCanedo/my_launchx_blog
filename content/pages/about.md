@@ -1,21 +1,14 @@
 ---
-title: 'About me'
+title: 'Sobre mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mí"
 ---
 
-## Who am I
+## ¿Quién soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola!
+Soy un jovén de 22 años, originario de Sonora, México
+Me apaciona la tecnología y la programación, aprender nuevas tecnologías
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
